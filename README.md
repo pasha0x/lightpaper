@@ -3,7 +3,9 @@
 
 Modern capitalism is undergoing radical changes due to new social trends and blockchain development. We are living in the Post-Fordism era, where the labor is not alienated anymore, capital isn't fixed and means of production aren't necessarily owned by the bourgeoisie. So Karl Marx can rest in peace while our generation rethinking not only the Labor conditions and organization structures, but the Labor itself.
 
-*"Redefining opportunities and responsibilities for people in a society absent of mass formal employment is likely to be the single most pressing social issue of the century" Rifkin*
+> Redefining opportunities and responsibilities for people in a society absent of mass formal employment is likely to be the single most pressing social issue of the century
+>
+> -- *Jeremy Rifkin*
 
 We #BUIDL KYODO new economy model for DAO with the hottest instrument of rewarding community participants.   
 KYODO Dapp is for managing DAO based on Ethereum blockchain.
