@@ -1,14 +1,14 @@
 # Lightpapper KYODO
 ## INTRO
 
-Modern capitalism is undergoing radical changes due to new social trends and blockchain development. We are living in the Post-Fordism era, where the labor is not alienated anymore, capital isn't fixed and means of production not necessarily owned by the bourgeoisie as in Karl Marx age. Thus not only the work conditions should be rethink but the labor itself.
+Modern capitalism is undergoing radical changes due to new social trends and blockchain development. We are living in the Post-Fordism era, where the labor is not alienated anymore, capital isn't fixed and means of production not necessarily owned by the bourgeoisie. So Karl Marx can rest in peace while our generation should rethink not only the Labor conditions and organization structures, but the Labor itself.
 
 *"Redefining opportunities and responsibilities for people in a society absent of mass formal employment is likely to be the single most pressing social issue of the century" Rifkin*
 
-We #BUIDL KYODO new economy model for DAO with the hottest instrument of rewarding participants of a community.   
-KYODO Dapp for managing DAO based on Ethereum blockchain.
+We #BUIDL KYODO new economy model for DAO with the hottest instrument of rewarding community participants.   
+KYODO Dapp is for managing DAO based on Ethereum blockchain.
 
-Many modern thinkers noted new features of the Post labor era that we can observe already.
+Many modern thinkers have noted new features of the Post labor era that we are experiencing nowadays.
 The main long-term social trends should be taken into account modeling modern organization. 
 
 ### Main long-term social and economic trends
@@ -55,5 +55,30 @@ HARRY HALPIN Research Scientist at Massachusetts Institute of Technology [↩](#
 - Create a framework for liquid/sustainable/ horizontal organizations, that could serve as a tool to manage its activity, be incentive and efficient. 
 - Test the new reward mode for #DAO members activity, that matches the post labor era features (fun/work, no long-term obligations, follow self-interests)
 -  Achieve a network effect that brings mass adoption closer.
+
+## CyptoEconomy KYODO
+
+### Transaction costs
+The productive processes and organization of labor fits within the KYODO framework that incorporates Blockchain, tokenization and collective intelligence and lead to lowering costs of coordination DAOs allow it to scale larger. Means KYODO reduces the transaction costs. Let's see wich ones:
+
+1. Costs of blockchain transactions
+KYODO records to Ethereum blockchain the token allocation. To reduce the transaction cost of this operation. KYODO doesn't record every tip that each member recieves, but collect the data of it on backend application with Mongo database cache layer. KYODO records the data to Ethereum blockchain one time in the end of period paying ETH for Gas.
+Period*- conditional time inerval while tips are collecting before bieng recalculated into tokens and sent to a members.
+
+2. Bargaining costs 
+They are the costs related to coming to an agreement that is agreeable to the parties involved and drawing up the contract. 
+Aragon voting
+permissionless system
+
+3. Policing and enforcement costs
+They are the costs associated with making sure that the parties in the contract keep up their word and do not default on the terms of the contract.
+
+4. Search and information costs
+They are the costs associated with looking for relevant information and meeting with agents with whom the transaction will take place.
+KYODO motivates to share result to be rewarded.
+
+5. Oportunistic behavour
+KYODO impression based reward model
+
 
 
