@@ -63,6 +63,8 @@ HARRY HALPIN Research Scientist at Massachusetts Institute of Technology [↩](#
 ### Transaction costs
 The productive processes and organization of labor fits within the KYODO framework that incorporates Blockchain, tokenization and collective intelligence and lead to lowering costs of coordination DAOs allow it to scale larger. Means KYODO reduces the transaction costs. Let's see wich ones:
 
+
+
 1. Costs of blockchain transactions
 KYODO records to Ethereum blockchain the token allocation. To reduce the transaction cost of this operation. KYODO doesn't record every tip that each member recieves, but collect the data of it on backend application with Mongo database cache layer. KYODO records the data to Ethereum blockchain one time in the end of period paying ETH for Gas.
 Period*- conditional time inerval while tips are collecting before bieng recalculated into tokens and sent to a members.
