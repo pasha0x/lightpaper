@@ -15,33 +15,33 @@ The main long-term social trends should be taken into account modeling modern or
 
 ### Main long-term social and economic trends
 - Liquid modernity / Hyper fluidity / Constant changing / Avoiding long-term obligations / Nomadism <sup id="a1">[1](#f1)</sup>
-- Third industrial revolution / Global swiching from vertical hierarchy to horizontal organisations / Decentralization <sup id="a2">[2](#f1)</sup>
-- Post labor <sup id="a3">[3](#f1)</sup> / Workless world <sup id="a4">[4](#f1)</sup>  / Labor Gamification <sup id="a5">[5](#f1)</sup> 
-- Networks for collective individuation  <sup id="a6">[6](#f1)</sup> 
+- Third industrial revolution / Global swiching from vertical hierarchy to horizontal organisations / Decentralization <sup id="a2">[2](#f2)</sup>
+- Post labor <sup id="a3">[3](#f3)</sup> / Workless world <sup id="a4">[4](#f4)</sup>  / Labor Gamification <sup id="a5">[5](#f5)</sup> 
+- Networks for collective individuation  <sup id="a6">[6](#f6)</sup> 
 
 <b id="f1">1</b> 
 "It is a kind of chaotic continuation of modernity, where a person can shift from one social position to another in a fluid manner. Nomadism becomes a general trait of the 'liquid modern' man as he flows through his own life like a tourist, changing places, jobs, spouses, values and sometimes more—such as political or sexual orientation—excluding himself from traditional networks of support, while also freeing himself from the restrictions or requirements those networks impose."
 https://en.wikipedia.org/wiki/Late_modernity 
 "Liquid modernity" Zigmund Bauman[↩](#a1)
 
-<b id="f1">2</b> 
+<b id="f2">2</b> 
 "Jeremy Rifkin explores how Internet technology and renewable energy are merging to create a powerful new engine of economic growth. This process will usher in a fundamental reordering of human relationships, from hierarchical to lateral, that will impact the way we conduct commerce, govern society, educate our children, and engage in civic life."
 https://en.wikipedia.org/wiki/The_Third_Industrial_Revolution [↩](#a2)
 
-<b id="f1">3</b> 
+<b id="f3">3</b> 
 "Labor becomes a voluntary activity there the working class owns the means of production. With this freedome, humans create with sincerity and desire, and not out of matearistical necessity."
 "Play and labor" Chin Jungkwon 2017 "Superhumanity" [↩](#a3)
 
-<b id="f1">4</b> 
+<b id="f4">4</b> 
 “New revolution is moving us to the edge of workless world”
 “the information and communication technology revolutions virtually guarantee more production with less human labor… Free time will come, William Green said, the only choice is unemployment or leisure.” 
 Jeremy Rifkin “The End of Work: Decline of the Global Labor Force and the Dawn of the Post-Market Era” 1999 [↩](#a4)
 
-<b id="f1">5</b> 
+<b id="f5">5</b> 
 "According to Marx, capitalist is "alieneted" labor. However, the situation is different now. As capitalism grew to become semiotic, aesthetic and play-like, the structure of human desire changed. Since the 1990s, wages have not been the only incentive for economic activity. That is, there has been an increasing amount of people who pursue what they are good at, even at the expence of high wages."
 "Play and labor" Chin Jungkwon 2017 "Superhumanity" [↩](#a5)
 
-<b id="f1">6</b> 
+<b id="f6">6</b> 
 The era of self-interested individuals, but they are looking for individuation through collective, through common activity and they will need networks for individuation.
 
 "Each collective project could be defined by an agreed-upon goal, and requirements of fulfillment are collective initiated and updated by ‘members’ of the group.
