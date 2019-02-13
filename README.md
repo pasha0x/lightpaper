@@ -15,9 +15,9 @@ The main long-term social trends should be taken into account modeling modern or
 
 ### Main long-term social and economic trends
 - Liquid modernity / Hyper fluidity / Constant changing / Avoiding long-term obligations / Nomadism <sup id="a1">[1](#f1)</sup>
-- Third industrial revolution / Global swiching from vertical hierarchy to horizontal organisations / Decentralization <sup id="a2">[2](#f1)</sup>
-- Post labor <sup id="a3">[3](#f1)</sup> / Workless world <sup id="a4">[4](#f1)</sup>  / Labor Gamification <sup id="a5">[5](#f1)</sup> 
-- Networks for collective individuation  <sup id="a6">[6](#f1)</sup> 
+- Third industrial revolution / Global swiching from vertical hierarchy to horizontal organisations / Decentralization <sup id="a2">[2](#f2)</sup>
+- Post labor <sup id="a3">[3](#f3)</sup> / Workless world <sup id="a4">[4](#f4)</sup>  / Labor Gamification <sup id="a5">[5](#f5)</sup> 
+- Networks for collective individuation  <sup id="a6">[6](#f6)</sup> 
 
 <b id="f1">1</b> 
 "It is a kind of chaotic continuation of modernity, where a person can shift from one social position to another in a fluid manner. Nomadism becomes a general trait of the 'liquid modern' man as he flows through his own life like a tourist, changing places, jobs, spouses, values and sometimes more—such as political or sexual orientation—excluding himself from traditional networks of support, while also freeing himself from the restrictions or requirements those networks impose."
