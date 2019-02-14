@@ -58,6 +58,8 @@ HARRY HALPIN Research Scientist at Massachusetts Institute of Technology [↩](#
 - Test the new reward mode for #DAO members activity, that matches the post labor era features (fun/work, no long-term obligations, follow self-interests)
 -  Achieve a network effect that brings mass adoption closer.
 
+
+
 ## CyptoEconomy KYODO
 
 ### Transaction costs
